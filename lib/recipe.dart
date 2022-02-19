@@ -33,7 +33,7 @@ class Recipe {
       Ingredient(0.5, "cup", "pizza sauce", "or homemade marinara sauce"),
       Ingredient(1, "cup", "mozzarella cheese", "shredded"),
       Ingredient(0.5, "cup", "Canadian bacon", "about 4 to 5 slices"),
-      Ingredient(0.25, "cup", " pineapple", "diced"),
+      Ingredient(0.25, "cup", "pineapple", "diced"),
       Ingredient(
           0.25, "cup", "bacon", "chopped, cooked, ¼-inch dice, about 4 slices"),
       Ingredient(0, "", "oregano", "for sprinkling (optional)")
